@@ -2,7 +2,7 @@
 
 _A sane project starting point as outlined in [Two Scoops of Django](https://www.twoscoopspress.com/)._
 
-## Gettings Started
+## Getting Started
 
 ### Docker
 
