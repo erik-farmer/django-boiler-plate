@@ -3,6 +3,17 @@
 _A sane project starting point as outlined in [Two Scoops of Django](https://www.twoscoopspress.com/)._
 
 ## Gettings Started
+
+### Docker
+
+The `docker-compose` file is present and using the assumption your project will need use Postgres & redis. To create these containers use `docker-compose up` from the project directory (rename any user names/passwords as you see fit)
+
+### Python version and requirements.
+
+Use your preferred environment management tool to create a clean python install and use the following to install the requirements: `pip install -r requirements.txt`
+
+### Starting the dev server
+
 Run the following to get started:
 ```commandline
 export DJANGO_SETTINGS_MODULE="config.settings.local"
