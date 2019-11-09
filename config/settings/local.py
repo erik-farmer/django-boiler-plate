@@ -16,7 +16,7 @@ DATABASES = {
         'NAME': 'dev_db',
         'USER': 'dev_user',
         'PASSWORD': 'dev_password',
-        'HOST': '127.0.0.1',
-        'PORT': '5433',
+        'HOST': 'db',
+        'PORT': '5432',
     }
 }

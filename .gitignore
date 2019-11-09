@@ -105,3 +105,9 @@ venv.bak/
 
 # PyCharm
 .idea/
+
+# Heroku
+runtime.txt
+
+# pyenv virtualenv
+.python-version
